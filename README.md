@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Flatblackcat
+- 👀 I’m interested in IT Engineering
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on PC Building
+- 📫 How to reach me flatblackcat01@gmail.com
